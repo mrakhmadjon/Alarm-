@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\obj\Debug\net5.0\Simple Alarm Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\obj\Debug\net5.0\Simple Alarm Clock.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\obj\Debug\net5.0\Simple Alarm Clock.AssemblyInfo.cs
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\obj\Debug\net5.0\Simple Alarm Clock.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\bin\Debug\net5.0\Simple Alarm Clock.exe
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\bin\Debug\net5.0\Simple Alarm Clock.deps.json
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\bin\Debug\net5.0\Simple Alarm Clock.runtimeconfig.json
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\bin\Debug\net5.0\Simple Alarm Clock.runtimeconfig.dev.json
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\bin\Debug\net5.0\Simple Alarm Clock.dll
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\bin\Debug\net5.0\ref\Simple Alarm Clock.dll
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\bin\Debug\net5.0\Simple Alarm Clock.pdb
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\obj\Debug\net5.0\Simple Alarm Clock.dll
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\obj\Debug\net5.0\ref\Simple Alarm Clock.dll
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\obj\Debug\net5.0\Simple Alarm Clock.pdb
+C:\Users\HP\Documents\Dot net projects\DotNet Lessons\Lessons\Simple Alarm Clock\Simple Alarm Clock\obj\Debug\net5.0\Simple Alarm Clock.genruntimeconfig.cache

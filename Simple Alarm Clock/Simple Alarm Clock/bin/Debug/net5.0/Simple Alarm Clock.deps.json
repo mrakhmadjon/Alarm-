@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Simple Alarm Clock/1.0.0": {
+        "runtime": {
+          "Simple Alarm Clock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple Alarm Clock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
